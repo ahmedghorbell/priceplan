@@ -1,0 +1,21 @@
+.car {
+    width: 800px;
+    height: 500px;
+    border: 10px ;
+    border-image: linear-gradient(45deg, rgb(232, 187, 244), rgb(185, 126, 230)) 1;
+    border-style: inset;
+}
+
+.d-block{
+    width: 801px;
+    height: 481px;
+}
+h3{color: #fff;
+    font-weight: 500;
+    font-size: 1rem;
+    background-color: rgba(190, 145, 198, 0.5);
+    padding: 5px;
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid #fff;
+}

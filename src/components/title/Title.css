@@ -1,0 +1,25 @@
+h1 {color: #fff; 
+    font-size: 60px; 
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 3rem;
+    background: linear-gradient(135deg, #9940bf, #8800ff);
+    padding: 1rem 2rem;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3), 0 4px 8px rgba(0, 0, 0, 0.1), 0 0 10px rgba(191, 191, 191, 0.5);
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 20px;
+    border: 2px solid #fff;
+}
+
+.hh{
+    margin-bottom: 20px;
+}
